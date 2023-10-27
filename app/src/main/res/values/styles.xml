@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    FONT TITLE  -->
+    <style name="fontTitle">
+        <item name="android:fontFamily">@font/inconsolata_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="fontTitle.48">
+        <item name="android:textSize">48sp</item>
+    </style>
+
+    <style name="fontTitle.22">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+
+    <!--    FONT TITLE SYNE-->
+    <style name="fontTitleSyne">
+        <item name="android:fontFamily">@font/syne_mono</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="fontTitleSyne.22">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="fontTitleSyne.18">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+    <!--    FONT TITLE  -->
+    <style name="fontTitleSemiBold">
+        <item name="android:fontFamily">@font/inconsolata_semibold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="fontTitleSemiBold.22">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+
+
+
+    <!--    FONT SUBTITLE   -->
+    <style name="fontSubtitle">
+        <item name="android:fontFamily">@font/inconsolata</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="fontSubtitle.18">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="fontSubtitle.14">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+<!--    BUTTON  -->
+    <style name="button">
+        <item name="android:height">48dp</item>
+        <item name="android:fontFamily">@font/inconsolata_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="button.corner">
+        <item name="android:textColor">@color/_BA1000</item>
+        <item name="android:background">@drawable/shape_btn_corner_gray</item>
+    </style>
+
+
+
+
+
+
+</resources>

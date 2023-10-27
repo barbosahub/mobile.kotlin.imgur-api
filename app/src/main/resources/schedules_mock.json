@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "result": [
+    {
+      "name": "Person name",
+      "hour": "18:00",
+      "district": "Dublin",
+      "address": "Francis street",
+      "price": "1000",
+      "deposit": "1000",
+      "type_vacation": "permanent",
+      "enter": "17/02/2023",
+      "out": "",
+      "type_room": "shared"
+    }
+  ]
+}

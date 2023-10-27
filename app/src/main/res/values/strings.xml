@@ -1,0 +1,12 @@
+<resources>
+
+    <!--    APP-->
+    <string name="app_name">ImgurApi</string>
+
+    <!--    HOME-->
+    <string name="content_background">Imagem de fundo</string>
+    <string name="hello_user">Olá, %s</string>
+    <string name="title">Title</string>
+    <string name="ol_rui">Olá, Rui</string>
+
+</resources>
